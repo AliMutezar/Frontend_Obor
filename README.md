@@ -4,4 +4,3 @@ Repo ini berisikan file HTML, CSS, JS dan library Highcharts untuk membuat Front
 
 1. Index.html (Halaman search book penulis)
 2. list_book.html (Halaman list book penulis)
-3. grafik_royalti (Halaman berisi grafik pendapatan penulis)
