@@ -85,10 +85,6 @@ h1.text-judul {
         justify-content: center !important;
     }
 
-    img.cover {
-        align-self: center !important;
-    }
-
     .judul-buku {
         font-size: 14px;
     }
