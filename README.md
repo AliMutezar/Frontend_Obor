@@ -15,3 +15,6 @@ laporan terdiri dari
 4.  Laporan pembelian buku
 5.  Laporan persediaan buku
 6. Laporan Royalti
+
+## Update Terbaru
+1.  Label Resi
